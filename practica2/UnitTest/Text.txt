@@ -1,0 +1,8 @@
+FileName:
+	-Snake_case.
+Variables:
+	-PascalCase
+Class Name:
+	-Snake_case
+Method:
+	-PascalCase
